@@ -1,0 +1,39 @@
+HTML5 no es una version mejorada del HTML antiguo conocido , es la integracióm de 3
+potentes herramientas HTML,CSS Y JAVASCRIPT.
+mozilla es la plataforma ideal para programadores web  pues soporta toda las virtudes
+del HTML5, google chromer esta en camino de mejora
+
+-----------------------------------------------
+              CONCEPTOS BÁSICOS
+-----------------------------------------------
+
+HTML5 ---->> provee ESTRUCTURA, ESTILO Y FUNCIONALIDAD
+
+1.ESTRUCTURA GLOBAL
+Estrictamente organizados.
+HTML ha añadido elementos semánticos.
+<!DOCTYPE>---->INDICAMOS EL TIPO DE DOCUMENTO QUE ESTAMOS CREANDO
+ejemplo: 
+<!DOCTYPE html>--->sin espacios previos, debe ser colocada en la esquina superior izquierda
+
+Luego declaramos la etiqueta que encerrará al resto del código:
+<html>
+ejmplo:
+<!DOCTYPE html>
+<html lang="es"> ---->html:palabra clave el atributo lang="es" indica el idioma humano del contenido
+
+</html>
+
+html-->usa un lenguaje de etiquetas para contruir paginas web, etiquetas son palabras
+clave
+
+<head>
+  AQUI DENTRO SE COLOCA EL TITULO DE NUESTRA PÁGINA WEB , DECLARAMOS SET DE CARACTERES
+  INFO SOBRE EL DOCUMENTO, INCORPORAMOS LOS ARCHIVOS EXTERNOS DE ESTILOS, CODIGO
+  JAVASCRIPT o INCLUIMOS IMAGENES 
+</head>
+
+<body>
+
+
+</body>
