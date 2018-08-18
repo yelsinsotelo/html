@@ -1,0 +1,80 @@
+Dentro de la etiqute <body></body> nosotros vamos a poder emplear un conjunto de etiquetas
+que a continuación vamos a definir: 
+1. <header></header>
+    Permite asignar un título, a la estructura 
+2. <h1></h1> 
+    Pueden haber etiquetas hasta <h6></h6>, indican la importancia de los titulos
+3. <nav></nav>
+    Barra de navegación, se ubica de la siguiente forma
+    <body>
+      <header>
+      </header>
+      <nav> 
+      <!-- Fue creado para brindar informacion al navedagor y ayudar a identificar 
+        las partes mas resaltantes del programa -->
+          
+          <ul>
+            <!-- definir la lista en estos parametros -->
+            <li> definir cada item de la lista  </li>
+            <li> definir cada item de la lista  </li>
+            <li> definir cada item de la lista  </li>
+            ...
+          </ul>
+        
+      </nav>
+    </body>
+
+4. <section> </section>
+    
+        <body>
+      <header>
+      </header>
+      <nav> 
+      <!-- Fue creado para brindar informacion al navedagor y ayudar a identificar 
+        las partes mas resaltantes del programa -->
+          
+          <ul>
+            <!-- definir la lista en estos parametros -->
+            <li> definir cada item de la lista  </li>
+            <li> definir cada item de la lista  </li>
+            <li> definir cada item de la lista  </li>
+            ...
+          </ul>
+     </nav>
+     <section>
+     <!-- cotenido principal de la pagina>
+       </section>
+
+</body>
+
+   
+5. <aside></aside>
+      
+          <body>
+      <header>
+      </header>
+      <nav> 
+      <!-- Fue creado para brindar informacion al navedagor y ayudar a identificar 
+        las partes mas resaltantes del programa -->
+          
+          <ul>
+            <!-- definir la lista en estos parametros -->
+            <li> definir cada item de la lista  </li>
+            <li> definir cada item de la lista  </li>
+            <li> definir cada item de la lista  </li>
+            ...
+          </ul>
+     </nav>
+     <section>
+     <!-- cotenido principal de la pagina -->
+       </section>
+      <aside>
+        <!-- Aqui se incorpora la barra lateral que se ubica al costaado de la 
+              información principal -->
+      </aside>
+
+</body>
+
+6.<footer></footer>
+esta etiqueta nos permite indicar la parte isntitucional 
+  
