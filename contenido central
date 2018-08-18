@@ -1,0 +1,16 @@
+1. <article></article>
+   esto perimete generar separaciones para introducir información
+   
+2. <hgroup></hgroup>
+
+    recordar que las etiquetas <h1></h1> son para introducir titulos
+    se emplea si se necesit ausa una cabezera para cada parte del documento
+    
+    esta etiquese se emplea asi:
+    
+    <hgroup>
+    <h1> titulo </h1> 
+    <h2> sub-titulo </h2> 
+    <hgroup>
+    
+3. 
